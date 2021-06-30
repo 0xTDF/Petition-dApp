@@ -12,7 +12,7 @@
 
 \- Test folder is in no way complete -
 
-Smart contract that enables users to sign a petition using the Ethereum blockchain.
+Smart contract enabling users to sign petitions on the Ethereum blockchain.
 
 
 
