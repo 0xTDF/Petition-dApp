@@ -20,7 +20,6 @@ Smart contract enabling users to sign petitions on the Ethereum blockchain.
 
 
 
-
 ### Real-World Use-Cases
 
 
