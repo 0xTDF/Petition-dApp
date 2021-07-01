@@ -10,7 +10,7 @@
 
 \- Work In progress -
 
-\- Test folder is in no way complete -
+\- Test folder is not complete -
 
 Smart contract enabling users to sign petitions on the Ethereum blockchain.
 
