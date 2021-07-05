@@ -6,7 +6,7 @@
 
 
 
-# Petition-Smart-Contract
+# Petition-dApp
 
 \- Work In progress -
 
