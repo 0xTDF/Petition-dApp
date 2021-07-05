@@ -6,7 +6,7 @@
 
 
 
-# Petition-Smart-Contract
+# Petition-dApp
 
 \- Work In progress -
 
@@ -71,4 +71,3 @@ Project Link: [https://github.com/Elisik/Petition-Smart-Contract](https://github
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/RAMWatson/
-
