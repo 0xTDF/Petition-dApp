@@ -40,8 +40,13 @@ Smart contract enabling users to sign petitions on the Ethereum blockchain.
 
 * [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
 * [Truffle](https://www.trufflesuite.com/)
+* [Mocha](https://mochajs.org/)
 
+## Future Work
   
+ - Finish unit testing
+ - Develop simple front end using React
+ 
 
 <!-- LICENSE -->
 ## License
@@ -71,3 +76,4 @@ Project Link: [https://github.com/Elisik/Petition-Smart-Contract](https://github
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/RAMWatson/
+
