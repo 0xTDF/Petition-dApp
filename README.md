@@ -40,8 +40,13 @@ Smart contract enabling users to sign petitions on the Ethereum blockchain.
 
 * [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
 * [Truffle](https://www.trufflesuite.com/)
+* [Mocha](https://mochajs.org/)
 
+## Future Work
   
+ - Finish unit testing
+ - Develop simple front end using React
+ 
 
 <!-- LICENSE -->
 ## License
