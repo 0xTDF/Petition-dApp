@@ -2,7 +2,12 @@
 
 pragma solidity^0.7.0;
 
-/// @title petition 
+/// @title petition
+
+/**
+ * @title petition
+ * @dev allows KYC verified users to sign a petition using the Ethereum blockchain
+ */
 
 contract petition {
 
